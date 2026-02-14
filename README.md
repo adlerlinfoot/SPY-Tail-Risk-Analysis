@@ -40,5 +40,5 @@ Python 3.10+ with standard scientific libraries (NumPy, Pandas, Matplotlib, SciP
 
 FULL REPORT
 
-A concise summary of methods and results is available in: report/report.pdf
+A concise summary of methods and results is available in: report/SPY_Tail_Risk_Report.pdf
 
